@@ -7,6 +7,7 @@ public class FaceBookL2Pages extends StartupPage
 
 	public FaceBookL2Pages(WebDriver driver) {
 			super(driver);
+			
 			// TODO Auto-generated constructor stub
 		}
 		
